@@ -1,0 +1,1 @@
+model <- lm(formula = SalePrice ~ OverallQual + OverallQual^2, data = X)
